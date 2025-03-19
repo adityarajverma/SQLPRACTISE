@@ -139,6 +139,8 @@ INSERT INTO Scholarship (SCHOLARSHIP_ID, STUDENT_REF_ID, SCHOLARSHIP_AMOUNT, SCH
 - **Scholarship Table**: Associates students with scholarship amounts and the date they received them.
 
 This setup ensures proper relationships between students, programs, and scholarships in a structured manner. 🚀
+**
+Please see 3_PractiseQuery.sql file for all query and there solution.I hope you first try this and later see the solution from here.**
 
 For more detailed information and additional SQL queries, you can refer to the original article on GeeksforGeeks: citeturn0search0 
 https://www.geeksforgeeks.org/sql-query-interview-questions/?ref=lbp
